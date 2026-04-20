@@ -11,4 +11,4 @@ Pages:
 - collaborations.html
 
 Live Site:
-(file:///Users/chloecbarrow/Desktop/GitHub/5-Build/index.html)
+https://cbarrow17.github.io/5-Build/
